@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "TTDrugs";
+	src: url("TTDrugs-Regular.woff2") format("woff2"), url("TTDrugs-Regular.woff") format("woff"), url("TTDrugs-Regular.ttf") format("truetype");
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-0491;
+}
+@font-face {
+	font-family: "TTDrugs";
+	src: url("TTDrugs-Bold.woff2") format("woff2"), url("TTDrugs-Bold.woff") format("woff"), url("TTDrugs-Bold.ttf") format("truetype");
+	font-weight: 700;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-0491;
+}
+@font-face {
+	font-family: "TTDrugs";
+	src: url("TTDrugs-Black.woff2") format("woff2"), url("TTDrugs-Black.woff") format("woff"), url("TTDrugs-Black.ttf") format("truetype");
+	font-weight: 900;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-0491;
+}
